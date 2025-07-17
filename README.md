@@ -1,5 +1,3 @@
-# przemGPT
-
 # AI Chatbot with OpenAI / Chatbot AI z OpenAI
 
 <!-- Tabs -->
@@ -19,7 +17,7 @@
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Skiper01/przemGPT.git
 cd your-repo
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -65,7 +63,7 @@ Commands:
 
 ## 🛠 Instalacja
 ```bash
-git clone https://github.com/twoja-nazwa/twoj-repo.git
+git clone https://github.com/Skiper01/przemGPT.git
 cd twoj-repo
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -103,4 +101,6 @@ Komendy:
 
 ---
 
-✍️ **Author/Autor**: [Przemek]  
+✍️ **Author/Autor**: [PRzemek]  
+📧 **Contact/Kontakt**: your@email.com  
+🔗 **Project URL/Strona projektu**: [github.com/Skiper01/przemGPT]
