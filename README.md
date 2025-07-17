@@ -102,5 +102,4 @@ Komendy:
 ---
 
 ✍️ **Author/Autor**: [PRzemek]  
-📧 **Contact/Kontakt**: your@email.com  
 🔗 **Project URL/Strona projektu**: [github.com/Skiper01/przemGPT]
