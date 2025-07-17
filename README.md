@@ -103,6 +103,4 @@ Komendy:
 
 ---
 
-✍️ **Author/Autor**: [Your Name/Twoje Imię]  
-📧 **Contact/Kontakt**: your@email.com  
-🔗 **Project URL/Strona projektu**: [GitHub Pages link if applicable]
+✍️ **Author/Autor**: [Przemek]  
