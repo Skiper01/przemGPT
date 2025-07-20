@@ -101,5 +101,5 @@ Komendy:
 
 ---
 
-✍️ **Author/Autor**: [PRzemek]  
+✍️ **Author/Autor**: [Przemek]  
 🔗 **Project URL/Strona projektu**: [github.com/Skiper01/przemGPT]
